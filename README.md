@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year Computer Science Major, <br>like to build stuff and very collaborative. <br>Learning Data Structures and Algorithms .<br>Proficient in Web development(MERN) and Python.<br>  
+Final year Computer Science Major, <br>like to build stuff and very collaborative. <br>Learning Data Structures and Algorithms .<br>Proficient in Web development(MERN) and Python.<br>  
 
 
 ## 🌐 Socials:
